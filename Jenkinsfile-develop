@@ -35,4 +35,4 @@ pipeline {
     }
 }  
 
-//test of pipeline of git & jenkins final
+//test of pipeline
