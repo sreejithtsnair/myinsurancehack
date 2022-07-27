@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'develop',url: 'https://github.com/RincyIssac/myinsuranceapp.git'
+                git branch: 'ploy',url: 'https://github.com/sreejithtsnair/myinsurancehack.git'
             }
         }        
         stage('Requirements') {
